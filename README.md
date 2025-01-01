@@ -1,2 +1,0 @@
-# SQL-PowerBI
-SQL / PowerBI
